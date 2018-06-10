@@ -1,6 +1,8 @@
 body,html{
 	width: 100%;
 	height: 100%;
+	margin:0;
+	padding:0;
 }
 
 
@@ -51,3 +53,7 @@ header.startup hr{
 .btn-primary {
   background-color: #F05F44;
   border-color: #F05F44; }
+
+.formChange {
+margin-left:200px;
+}
